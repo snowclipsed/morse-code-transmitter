@@ -1,6 +1,6 @@
 # morse_code_transmitter
 
-This repository includes the code for a morse code transmitter and reciever made using the Arduino Radiohead Library. 
+This repository includes the code for a morse code transmitter and reciever made using the Arduino [Radiohead Library (433Mhz)](https://www.airspayce.com/mikem/arduino/RadioHead/). 
 
 [Morse](https://www.babbel.com/en/magazine/how-does-morse-code-work) is a type of encryption which uses a specific combination of dashes and dots. It can be used to encrypt almost any modern laguange. I have used american morse code.
 
