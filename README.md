@@ -1,4 +1,4 @@
-# morse_code_transmitter
+# morse-code-transmitter
 
 This repository includes the code for a morse code transmitter and reciever made using the Arduino [Radiohead Library (433Mhz)](https://www.airspayce.com/mikem/arduino/RadioHead/). 
 
